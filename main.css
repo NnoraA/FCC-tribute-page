@@ -1,13 +1,19 @@
+<link href="https://fonts.googleapis.com/css?family=Noto+Serif+SC" rel="stylesheet">
+.body{
+    background-color:#AEB6BF  ;
+}
 .h1{
     justify-content: center;
     color: #212F3D;
+    font-family: 'Noto Serif SC', serif;
 }
 .h2{
-    color:#808B96;
+    color:#717D7E;
     justify-content: center;
+    font-family: 'Noto Serif SC', serif;
 }
 .image-wrapper{
-    background-color:#F2F3F4;
+    background-color:#85929E;
 }
 .div{
     justify-content: center;
@@ -17,7 +23,9 @@
     height: auto;
     margin: 0 auto;
 }
-
+.div2{
+    justify-content: center;
+}
 
 
 .d-flex {
