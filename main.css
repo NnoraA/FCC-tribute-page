@@ -5,6 +5,9 @@
 .h2{
     color:#808B96;
 }
+.image-wrapper{
+    color: midnightblue;
+}
 .responsive {
     max-width: 20%;
     height: auto;
