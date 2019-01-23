@@ -4,9 +4,13 @@
 }
 .h2{
     color:#808B96;
+    justify-content: center;
 }
 .image-wrapper{
-    color: midnightblue;
+    background-color:#F2F3F4;
+}
+.div{
+    justify-content: center;
 }
 .responsive {
     max-width: 20%;
