@@ -18,14 +18,15 @@
 .div{
     justify-content: center;
 }
-.article{
+.ul{
     font-family: 'Noto Serif SC', serif;
 }
 .responsive {
     max-width: 20%;
     height: auto;
     margin: 0 auto;
-    margin-top:20px;
+    padding-top:20px;
+    padding-bottom:20px;
 }
 .div3{
     justify-content: center;
