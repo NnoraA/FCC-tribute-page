@@ -13,17 +13,23 @@
 }
 .image-wrapper{
     background-color:#85929E;
+    
 }
 .div{
     justify-content: center;
+}
+.article{
+    font-family: 'Noto Serif SC', serif;
 }
 .responsive {
     max-width: 20%;
     height: auto;
     margin: 0 auto;
+    margin-top:20px;
 }
-.div2{
+.div3{
     justify-content: center;
+    font-family: 'Noto Serif SC', serif;
 }
 
 
