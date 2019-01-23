@@ -1,6 +1,9 @@
 .h1{
-    margin: 0 auto
+    margin: 0 auto;
     color: #212F3D;
+}
+.h2{
+    color:#808B96;
 }
 .responsive {
     max-width: 20%;
