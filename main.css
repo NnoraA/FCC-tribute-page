@@ -1,0 +1,48 @@
+.body{
+    background-color:#AEB6BF  ;
+}
+.h1{
+    justify-content: center;
+    color: #212F3D;
+    font-family: 'Noto Serif SC', serif;
+    text-decoration: underline;
+}
+.h2{
+    color:#717D7E;
+    justify-content: center;
+    font-family: 'Noto Serif SC', serif;
+}
+.image-wrapper{
+    background-color:#85929E;
+    margin-bottom: 1cm;
+    margin-top: 1cm;
+    
+}
+.div{
+    justify-content: center;
+    font-family: 'Noto Serif SC', serif;
+    line-height: 1cm;
+    font-size:15px;
+}
+.ul{
+    font-family: 'Noto Serif SC', serif;
+    line-height: 0.8cm;
+    font-size:15px;
+}
+.responsive {
+    max-width: 20%;
+    height: auto;
+    margin: 0 auto;
+    padding-top:20px;
+    padding-bottom:10px;
+}
+.div3{
+    justify-content: center;
+    font-family: 'Noto Serif SC', serif;
+    line-height: 2cm
+}
+
+
+.d-flex {
+    display: flex;
+}
